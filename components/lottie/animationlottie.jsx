@@ -3,20 +3,14 @@
 import lottie from 'lottie-web';
 import { useEffect, useRef } from 'react';
 
-interface Types{
-    container: any,
-    renderer: string,
-    loop: boolean,
-    autoplay: boolean,
-    path: string
-}
+
 
 export default function LottieAnimation() {
     const animationContainer = useRef(null);
   
     useEffect(() => {
         console.log(`running how many times?`)
-      const options: any = {
+      const options = {
         container: animationContainer.current,
         renderer: 'svg',
         loop: true,
