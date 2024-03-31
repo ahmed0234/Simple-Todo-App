@@ -26,8 +26,8 @@ const Description = () => {
               
              
               <span className="bg-gradient-to-r from-orange-700 to-orange-500 bg-clip-text text-transparent font-bold text-xl">
-                1.{" "}
-              </span>{" "}
+                1.
+              </span>
               Nextjs 14!
             </h1>
             </Link>
@@ -38,8 +38,8 @@ const Description = () => {
           <Link href={`https://react.dev/`} target='_blank' className='inline-block'>
             <h2 className="bg-gradient-to-r from-rose-600 to-rose-400 bg-clip-text text-transparent font-bold ">
               <span className="bg-gradient-to-r from-orange-700 to-orange-500 bg-clip-text text-transparent font-bold text-xl">
-                2.{" "}
-              </span>{" "}
+                2.
+              </span>
               React Js
             </h2>
             </Link>
@@ -48,8 +48,8 @@ const Description = () => {
           <Link href={`https://www.mongodb.com/`} target='_blank' className='inline-block'>
             <h1 className="bg-gradient-to-r from-rose-600 to-rose-400 bg-clip-text text-transparent font-bold ">
               <span className="bg-gradient-to-r from-orange-700 to-orange-500 bg-clip-text text-transparent font-bold text-xl">
-                3.{" "}
-              </span>{" "}
+                3.
+              </span>
               MongoDB
             </h1>
             </Link>
@@ -58,8 +58,8 @@ const Description = () => {
           <Link href={`https://beta.clerk.com/docs`} target='_blank' className='inline-block'>
             <h1 className="bg-gradient-to-r from-rose-600 to-rose-400 bg-clip-text text-transparent font-bold ">
               <span className="bg-gradient-to-r from-orange-700 to-orange-500 bg-clip-text text-transparent font-bold text-xl">
-                4.{" "}
-              </span>{" "}
+                4.
+              </span>
               Clerk Core 2 (for authentication)
             </h1>
             </Link>
@@ -68,8 +68,8 @@ const Description = () => {
           <Link href={`https://www.typescriptlang.org/`} target='_blank' className='inline-block'>
             <h1 className="bg-gradient-to-r from-rose-600 to-rose-400 bg-clip-text text-transparent font-bold ">
               <span className="bg-gradient-to-r from-orange-700 to-orange-500 bg-clip-text text-transparent font-bold text-xl">
-                5.{" "}
-              </span>{" "}
+                5.
+              </span>
               Typescript
             </h1>
             </Link>

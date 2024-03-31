@@ -20,15 +20,15 @@ const page = async () => {
         </h1>
 
         <p className="bg-gradient-to-r from-green-400 to-emerald-700 bg-clip-text text-transparent text-lg leading-tight font-semibold sm:text-xl md:text-2xl lg:py-4">
-          "Welcome to my{" "}
+          "Welcome to my
           <span className="bg-gradient-to-r from-red-500 to-orange-500 bg-clip-text text-transparent">
             Todo Project!
-          </span>{" "}
-          🚀 Dive into a seamless experience of managing your tasks with ease.{" "}
+          </span>
+          🚀 Dive into a seamless experience of managing your tasks with ease.
           <span className="bg-gradient-to-r from-red-500 to-orange-500 bg-clip-text text-transparent">
-            {" "}
+            
             Our application offers full CRUD (Create, Read, Update, Delete)
-          </span>{" "}
+          </span>
           operations, ensuring you have complete control over your todo list"
         </p>
       </div>

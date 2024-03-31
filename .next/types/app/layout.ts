@@ -1,4 +1,4 @@
-// File: C:\Users\ahmed1\Desktop\svelt\next_app_typescript_authjs_full_guide_practice_repo\app\layout.tsx
+// File: C:\Users\ahmed1\Desktop\svelt\TodoAppReal\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
